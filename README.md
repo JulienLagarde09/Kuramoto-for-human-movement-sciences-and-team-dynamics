@@ -6,7 +6,7 @@ Measuring group synchrony: a cluster-phase method for analyzing multivariate
 movement time-series. Frontiers in physiology, 3, 405.
 
 get a data set of phases Subjects X time point drawn from a Gaussian distribution
- wrappd to +-pi (von Mises would be better);
+ wrapped to +-pi (von Mises would be better);
 compute the variables on this data set,
 varying the variance of the distributions as in different "trials" (for loop dstb)
 Output: Correlation between Kuramoto's order param (dispersion) and Richardson variable = 1
