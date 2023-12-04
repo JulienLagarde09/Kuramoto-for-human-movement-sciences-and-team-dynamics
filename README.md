@@ -1,6 +1,7 @@
 A short note: Sometimes the order parameter of Y Kuramoto is presented as two "order parameters" (wikipedia pages for instance),
 which is wrong. The physical interpretation, the meaning, of this order parameter, is both phase-coherence and mean angle.
 This is given by a single complex variable. This correponds to first and second moment of the distribution of the phases of the ensemble oscillators.
+
 References
 
 For a great introduction: Strogatz, S. H. (2000). From Kuramoto to Crawford: exploring the onset of synchronization in populations of coupled oscillators. Physica D: Nonlinear Phenomena, 143(1-4), 1-20.
